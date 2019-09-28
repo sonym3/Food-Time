@@ -13,4 +13,5 @@ class SplashActivity extends AppCompatActivity {
         // close splash activity
         finish();
     }
+    
 }
